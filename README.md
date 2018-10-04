@@ -1,2 +1,2 @@
 # LatexSimpleText
-Latex simple text for classes
+Simple latex text for classes
